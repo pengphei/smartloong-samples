@@ -1,0 +1,7 @@
+build
+out
+*.config
+*.creator
+*.includes
+*.files
+.sconsign.dblite
